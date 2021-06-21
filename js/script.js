@@ -7,12 +7,22 @@ const app = new Vue (
     el: '#app',
 
     data : {
-        messaggio : 'Il messaggio è stato stampato'
+        messaggio : 'Il messaggio è stato stampato',
+        Foto : 'Foto di Kakà'
+        
         
     },
+   
 
 
 }
 
 
-)
+);
+
+
+
+
+
+// Aggiungere alla pagina un’immagine,
+//  presa anch’essa da un data
