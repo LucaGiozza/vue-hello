@@ -8,8 +8,8 @@ const app = new Vue (
 
     data : {
         messaggio : 'Il messaggio è stato stampato',
-        Foto : 'Foto di Kakà'
-        
+        Foto : 'Foto di Kakà',
+        percorso : "css/kaka.jpg",
         
     },
    
